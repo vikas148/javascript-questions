@@ -60,4 +60,42 @@ we can see the structure of style of the document in dom
 
 10 Why do we need **DOM**?
 >>we can manuplate in the code in the browser by using it and its make easy to devlopers life
-# Program
+# programs
+1 **Program to average of array nums in javascript**
+```
+ array=[10,20,30];
+
+var total=0;
+    for (let i = 0; i < array.length; i++) {
+        total +=array[i];
+        
+    }
+    var avg = total/array.length;
+    console.log(avg);
+```
+2 **Program to swap numbers by refrance** 
+```
+let a=5;
+let b=6;
+let c;
+console.log("the vale of a",a);
+console.log("the value of b",b);
+c=b;
+b=a;
+a=c;
+console.log("the vale of a after swap",a);
+console.log("the value of b after swap",b);
+
+```
+3 **Print the fibonacci sequence?**
+```
+
+```
+4 **Sort an array by both ascending and descending order?**
+```
+```
+5 **Show a variable value in an HTML webpage using DOM?**
+```
+let age=18;
+document.write(age);
+```
