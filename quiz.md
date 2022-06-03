@@ -3,7 +3,7 @@
 | Name | Email | Address |
 |------|-------|---------|
 |vikas bairwa| vb334531@gmail.com |sanganer jaipur|
-
+# Theory
 1 what is **javascript** ?
 >>javascript is the programming language for the websites. it's a dynamic programing language also
 
@@ -60,3 +60,4 @@ we can see the structure of style of the document in dom
 
 10 Why do we need **DOM**?
 >>we can manuplate in the code in the browser by using it and its make easy to devlopers life
+# Program
