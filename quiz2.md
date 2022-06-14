@@ -24,10 +24,10 @@
 ```
 
 4 What are Events in Javascript?
->>
+>>JavaScript's interaction with HTML is handled through events that occur when the user or the browser manipulates a page. When the page loads, it is called an event. When the user clicks a button, that click too is an event. Other examples include events like pressing any key, closing a window, resizing a window, etc.
 
 5 What is a string?
->>string is a primitive datatype in javascript or we can say that string is a 
+>>string is a primitive datatype in javascript or we can say that string is a sequence of one or more characters that may consist of letters, numbers, or symbols
 
 6 What is an array? Is it static or dynamic in Javascript?
 
