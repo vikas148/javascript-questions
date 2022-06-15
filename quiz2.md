@@ -50,6 +50,10 @@
 1 Reverse an array? Input: [1, 2, 3, 4, 5, 6]
 
 ```
+let arr= [1, 2, 3, 4, 5, 6];
+arr.reverse();
+console.log(arr);
+
 ```
 
 2 Explain the properties of the join array method function via program?
