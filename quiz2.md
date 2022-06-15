@@ -40,7 +40,12 @@
 >>
 
 9 What are array methods? List a few names?
->>
+>>arry methods are function actully built in function in javascript we can use them on our array
+>> Each method has a unique function that performs a change or calculation to our array and saves us from writing common functions from scratch.
+>> 1 .map();
+>> 2 .sort();
+>> 3 .reverse();
+>> 4 .foreach();
 
 10 In how many ways can we traverse through an array in Javascript?
 >>
